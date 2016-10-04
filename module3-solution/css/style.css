@@ -1,0 +1,36 @@
+body {
+	background-color: #e9ffc1;
+}
+
+/** header **/
+#header-nav {
+	background-color: #a5ff00;
+	border-radius: 0;
+	border: 0;
+}
+
+#bs-example-navbar-collapse-1 li {
+	text-align: center;
+	background-color: #177c13;
+	border-bottom: 1px solid #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #FFF;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: orange;
+}
+
+#main_container {
+	position: relative;
+	height: 1000px;
+	background-color: #15a87c;
+	margin: 15px;
+	color: #fff;
+}
+
+h1 {
+	color: #777;
+}
